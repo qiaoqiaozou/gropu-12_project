@@ -1,2 +1,2 @@
 # gropu-12_project
-our team homework
+This is our team homework!
